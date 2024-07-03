@@ -1,5 +1,5 @@
 package javaCollection;
-
+//6.0 How do you check if a string is a palindrome?
 public class Palindrome {
 
 	public static void main(String[] args) {

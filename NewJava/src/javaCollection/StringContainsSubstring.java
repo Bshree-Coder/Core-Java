@@ -1,7 +1,8 @@
 package javaCollection;
-
+//2.0 How do you check if a string contains a specific substring?
 public class StringContainsSubstring {
 
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
