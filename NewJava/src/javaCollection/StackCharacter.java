@@ -21,7 +21,7 @@ public class StackCharacter {
 		
 		System.out.println(sc);
 		sc.clear();
-		//System.out.println(sc);
+		System.out.println(sc);
 
 	}
 
