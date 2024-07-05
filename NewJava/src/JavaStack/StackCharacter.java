@@ -1,5 +1,9 @@
-package javaCollection;
+package JavaStack;
+/*Write a Java program to create a stack, push the elements 'A', 'B', 'C' onto it, and then clear
+the stack. Print the stack before and after clearing.*/
 
+/*Write a Java program to create a stack, push the elements 'X', 'Y', and 'Z' onto it, and then
+ *  search for the element 'Y' in the stack.*/
 import java.util.Stack;
 
 public class StackCharacter {

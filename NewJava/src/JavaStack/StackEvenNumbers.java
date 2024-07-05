@@ -1,5 +1,5 @@
-package javaCollection;
-
+package JavaStack;
+//Write a Java program to create a stack. Push only even numbers (2, 4, 6, 8, 10) onto the stack. Print the stack after each push.*/
 import java.util.Stack;
 
 public class StackEvenNumbers {
@@ -17,9 +17,10 @@ public class StackEvenNumbers {
 	        for (int num : evenNumbers) {
 	            if (num % 2 == 0) {
 	                sc.push(num);
-	                System.out.println(sc);
-	            }
+	               
 	        }
 	    }
+	        System.out.println(sc);
+    }
 	}
 		
