@@ -18,13 +18,13 @@ public class MyArrayList {
 		
 		al.add("Bhagyashri");
 		al.add("Ajinkya");
-		al.add("Shree");
+		al.add("Chanda");
 		al.add("Komal");
 		al.add("Rani");
 //How do you remove an element from an `ArrayList` by its index?
 	
-		al.remove(2);
-		System.out.println("ArrayList after removing element at index 2: "+al);
+//		al.remove(2);
+//		System.out.println("ArrayList after removing element at index 2: "+al);
 		
 //How can you retrieve an element from an `ArrayList` using its index?
 		
